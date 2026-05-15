@@ -6,3 +6,16 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+
+# Deployment
+.vercel/
+.netlify/
